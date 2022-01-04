@@ -21,6 +21,12 @@ height: 200px;
 
 }
 
+article p{
+
+text-align: justify;
+
+}
+
 h1 {
 	font-size: 36px;
 }
