@@ -97,6 +97,14 @@ aside section a:hover {
 	background-color: #efefef;
 }
 
+aside{
+
+	width: 230px;
+	margin-left: 20px;
+	float: right;
+
+}
+
 h2 {
 	padding: 0px;
 	color: #000000;
